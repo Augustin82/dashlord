@@ -113,11 +113,6 @@ urls:
     title: Deveco (prod)
     category: startup
     betaId: deveco
-    repositories:
-      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-app
-      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-api
-      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-sirene
-      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-import
     tags:
       - deveco
       - prod
@@ -125,11 +120,6 @@ urls:
     title: Deveco (preprod)
     category: startup
     betaId: deveco
-    repositories:
-      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-app
-      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-api
-      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-sirene
-      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-import    
     tags:
       - deveco
       - preprod
