@@ -109,6 +109,30 @@ urls:
     betaId: datapass
     repositories:
       - betagouv/datapass
+  - url: https://deveco.incubateur.anct.gouv.fr
+    title: Deveco (prod)
+    category: startup
+    betaId: deveco
+    repositories:
+      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-app
+      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-api
+      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-sirene
+      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-import
+    tags:
+      - deveco
+      - prod
+  - url: https://deveco-dev.dev.incubateur.anct.gouv.fr
+    title: Deveco (preprod)
+    category: startup
+    betaId: deveco
+    repositories:
+      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-app
+      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-api
+      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-sirene
+      - https://gitlab.com/incubateur-territoires/startups/deveco/deveco-import    
+    tags:
+      - deveco
+      - preprod
   - url: https://diagoriente.beta.gouv.fr
     category: startup
     betaId: diagoriente
